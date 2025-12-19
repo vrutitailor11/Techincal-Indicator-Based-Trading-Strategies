@@ -46,7 +46,6 @@ MACD Trend Filter + RSI Confirmation
 Momentum + Mean Reversion Filter
 
 📌Methodology
-
 1. Data Collection & Cleaning
 Retrieved historical price data using Python
 Handled missing values and aligned trading periods
